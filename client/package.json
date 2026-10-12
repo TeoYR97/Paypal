@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@paypal/react-paypal-js": "^10.6.0",
+    "react-router-dom": "^7.18.4"
+  }
+}
